@@ -3,7 +3,7 @@
 
 Welcome to my ✨ _Github_ ✨ !
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and am familiar with</h2>
+<h2> 🚀 &nbsp;SMy technology playground</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
