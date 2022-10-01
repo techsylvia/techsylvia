@@ -25,5 +25,4 @@ Welcome to my ✨ _Github_ ✨ !
 - 👩🏻‍💻 I’m currently learning Angular and Typescript
 - 💬 I love creating user friendly applications
 - 🗣️ I speak Icelandic, English, Spanish and German.
-- 📫 How to reach me: sylviaantonsdottir @ gmail.com
 - If I'm not coding then you can find me in the gym 🏋🏽‍♀️
