@@ -9,6 +9,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techsylvia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techsylvia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Techsylvia’s github stats](https://github-readme-stats.vercel.app/api?username=techsylvia)](https://github.com/techsylvia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techsylvia&layout=compact)](https://github.com/techsylvia)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
