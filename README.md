@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I’m currently learning Angular and Typescript<br>💬 I love creating user friendly applications<br>🗣️ I speak Icelandic, English, Spanish and German.<br>If I'm not coding then you can find me in the gym 🏋🏽‍♀️
+👩🏻‍💻 I’m currently learning Angular and Typescript<br>💬 I love creating user friendly applications<br>🗣️ I speak German, English, Spanish and Icelandic.<br>If I'm not coding then you can find me in the gym 🏋🏽‍♀️
 
 
 # 💻 Tech Stack:
